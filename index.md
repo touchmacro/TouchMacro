@@ -6,4 +6,4 @@
 ## nnn
 ** gg **
 
-[dl](./Download/dl.txt"download")
+[dl](https://touchmacro.github.io/Download/forKim.tmc.zip "download")
