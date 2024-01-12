@@ -6,4 +6,4 @@
 ## nnn
 ** gg **
 
-[dl](https://touchmacro.github.io/Download/forKim.tmc.zip "download")
+[dl](https://touchmacro.github.io/Download/forKIM.tmc.zip "download")
