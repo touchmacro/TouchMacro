@@ -1,6 +1,6 @@
 
 # Touch macro documentation
-[1. 터치 매크로 소개](#about.md)
+[1. 터치 매크로 소개](#about_touchmacro.md)
 2. file
 3. ee
 # Hello
