@@ -13,4 +13,3 @@
 
 • 기타 앱에서 자동 로그인, 자동 설정, 자동 업데이트 등을 할 수 있습니다.
 
-터치매크로에 대한 자세한 정보는 터치 매크로 프로 https://blog.naver.com/PostView.naver?blogId=sunbatman&logNo=223192549180나 터치 매크로-오토 터치 https://m.blog.naver.com/112fkdldjs/221974700445를 참고하세요. b
