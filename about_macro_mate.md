@@ -3,4 +3,4 @@
 
 ## 설치
 **터치매크로 앱을 보안폴더 안에 설치합니다**
-[](Images/tmc_secure_folder.jpg)
+[img](Images/tmc_secure_folder.jpg)
