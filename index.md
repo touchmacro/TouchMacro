@@ -9,9 +9,3 @@ redirect_from:
 
 [2. 터치 메이트](TouchMate/README.md)
 
-
-# Hello
-## 
-**gg**
-
-[dl](https://touchmacro.github.io/Download/forKIM.tmc.zip "download")
