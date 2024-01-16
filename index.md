@@ -5,9 +5,9 @@ redirect_from:
  - /articles/older-outdated-article-name/
 ---
 # 터치매크로
-[1. 터치매크로](about_touchmacro.md)
+[1. 터치매크로](TouchMacro/README.md)
 
-[2. 매크로 메이트](about_macro_mate.md)
+[2. 매크로 메이트](TouchMate/README.md)
 
 
 # Hello
