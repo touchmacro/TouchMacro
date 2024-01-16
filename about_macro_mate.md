@@ -3,6 +3,4 @@
 
 ## 설치
 **터치매크로 앱을 보안폴더 안에 설치합니다**
-[img](Images/tmc_secure_folder.jpg)
-
-<img src="/Images/tmc_secure_folder.jpg" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="/Images/tmc_secure_folder.jpg" alt="Install tmc inside the secure folder" style="height: 100px; width:200px;"/>
