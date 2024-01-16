@@ -3,4 +3,5 @@
 
 ## 설치
 **터치매크로 앱을 보안폴더 안에 설치합니다**
-<img src="/Images/tmc_secure_folder.jpg" alt="Install tmc inside the secure folder" style="height: 100px; width:200px;"/>
+
+<img src="/Images/tmc_secure_folder.jpg" alt="Install tmc inside the secure folder" style="height: 200px; width:100px;"/>
