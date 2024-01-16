@@ -4,4 +4,4 @@
 ## 설치
 **터치 매크로 앱을 보안폴더 안에 설치합니다**
 
-<img src="/TouchMate/assets/install_secure_folder.jpg" alt="Install tmc inside the secure folder" style="height: 200px; width:100px;"/>
+<img src="assets/install_secure_folder.jpg" alt="Install tmc inside the secure folder" style="height: 200px; width:100px;"/>
