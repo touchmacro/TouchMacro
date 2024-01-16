@@ -5,3 +5,10 @@
 **터치 매크로 앱을 보안폴더 안에 설치합니다**
 
 <img src="assets/install_secure_folder.jpg" alt="Install tmc inside the secure folder" style="height: 400px; width:200px;"/>
+
+**터치 메이트 설치**
+터치 메이트는 보안폴더가 아닌 곳에 설치하세요.
+[다운로드]()
+
+## 실행
+
