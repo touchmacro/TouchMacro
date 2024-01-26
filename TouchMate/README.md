@@ -13,5 +13,7 @@
 [다운로드](apk/TouchMate_v1.0.0.apk)
 
 ## 실행
-
+- 접근성 권한을 허용합니다.
+- 터치 메이트 서비스를 실행합니다.
+ 
 <img src="assets/touch_mate_main.png" alt="Touch Mate main activity" style="height: 400px; width:200px;"/>
