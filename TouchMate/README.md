@@ -14,3 +14,4 @@
 
 ## 실행
 
+<img src="assets/touch_mate_main.png" alt="Touch Mate main activity" style="height: 400px; width:200px;"/>
