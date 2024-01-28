@@ -20,7 +20,6 @@
 
 ## 접근성 권한 
  - Android 14
-https://www.youtube.com/shorts/GCOlUx8d_NU
+ - 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GCOlUx8d_NU/0.jpg)](https://www.youtube.com/watch?v=GCOlUx8d_NU)
 
-https://www.youtube.com/shorts/GCOlUx8d_NU
