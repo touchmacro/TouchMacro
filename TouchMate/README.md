@@ -23,6 +23,3 @@
  - (https://www.youtube.com/watch?v=GCOlUx8d_NU
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GCOlUx8d_NU/0.jpg)](https://www.youtube.com/watch?v=GCOlUx8d_NU)
 
-[![asciicast](https://asciinema.org/a/113463.png)]([https://asciinema.org/a/113463](https://www.youtube.com/watch?v=GCOlUx8d_NU)https://www.youtube.com/watch?v=GCOlUx8d_NU)
-
-<video src='https://www.youtube.com/watch?v=GCOlUx8d_NU' width=180/>
