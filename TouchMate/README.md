@@ -19,6 +19,7 @@
 <img src="assets/touch_mate_main.png" alt="Touch Mate main activity" style="height: 400px; width:200px;"/>
 
 ## 접근성 권한 
- - Android 14 스마트폰에서 접근성 권한을 활성화 하는 동영상입니다. 
+ - Android 14 스마트폰에서 접근성 권한을 활성화 하는 동영상입니다.
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GCOlUx8d_NU/0.jpg)](https://www.youtube.com/watch?v=GCOlUx8d_NU)
 
