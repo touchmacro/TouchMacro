@@ -17,3 +17,10 @@
 - 터치 메이트 서비스를 실행합니다.
  
 <img src="assets/touch_mate_main.png" alt="Touch Mate main activity" style="height: 400px; width:200px;"/>
+
+## 접근성 권한 
+ - Android 14
+https://www.youtube.com/shorts/GCOlUx8d_NU
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GCOlUx8d_NU/0.jpg)](https://www.youtube.com/watch?v=GCOlUx8d_NU)
+
+https://www.youtube.com/shorts/GCOlUx8d_NU
