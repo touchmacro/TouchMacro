@@ -3,8 +3,8 @@
 **이미지 검색 주기**
 
 이미지 검색을 얼마나 자주 할지를 설정합니다. 검색 주기가 1초라면 2초에 이미지 검색을 2번 수행합니다.
-<img src="assets/settings_1.jpg" alt="Touch Macro settings" style="height: 400px; width:200px;"/>
 
+<img src="assets/settings_1.jpg" alt="Touch Macro settings" style="height: 400px; width:200px;"/>
 
 **이미지 검색 시간**
 
