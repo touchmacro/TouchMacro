@@ -4,4 +4,4 @@
 
 [2.보안 폴더 안에서 사용하기](UseInSecureStorage.md)
 
-[3.기능 설명](instruction.md)
+[3.이미지 검색](instruction.md)
