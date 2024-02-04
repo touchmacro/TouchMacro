@@ -1,5 +1,4 @@
 # 정기 결제 문제 해결하기
-<img src="assets/g_translate_black_48dp.png" alt="Translate guide" style="height: 50px; width:50px;"/> 
 
 <a href="translation_guide.md" rel="some text">![Foo](assets/g_translate_black_48dp.png)</a> [Translate](translation_guide.md)
 
