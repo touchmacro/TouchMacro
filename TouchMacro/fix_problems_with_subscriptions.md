@@ -1,6 +1,8 @@
 # 정기 결제 문제 해결하기
 <img src="assets/g_translate_black_48dp.png" alt="Translate guide" style="height: 50px; width:50px;"/> [Translate](translation_guide.md)
 
+[ddd<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+
 
 ## 앱을 삭제하고 다시 설치합니다.
 1. 정기 결제를 신청한 Google 계정으로 구글 플레이에 로그인했는지 확인합니다.
