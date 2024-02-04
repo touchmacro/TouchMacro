@@ -1,4 +1,5 @@
 # 정기 결제 문제 해결하기
+<img src="assets/g_translate_black_48dp.png" alt="Translate guide" style="height: 50px; width:50px;"/>
 [Translate](translation_guide.md)
 
 ## 앱을 삭제하고 다시 설치합니다.
