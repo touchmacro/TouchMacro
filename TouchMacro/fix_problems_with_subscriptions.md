@@ -1,4 +1,5 @@
 # 정기 결제 문제 해결하기
+[Translate](translation_guide.md)
 
 ## 앱을 채설치 합니다.
 1. 정기 결제를 신청한 Google 계정으로 구글 플레이에 로그인했는지 확인합니다.
