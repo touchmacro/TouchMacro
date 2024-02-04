@@ -1,7 +1,7 @@
 # 정기 결제 문제 해결하기
 <img src="assets/g_translate_black_48dp.png" alt="Translate guide" style="height: 50px; width:50px;"/> [Translate](translation_guide.md)
 
-<a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+<a href="http://google.com.au/" rel="some text">![Foo](assets/g_translate_black_48dp.png)</a>
 
 
 ## 앱을 삭제하고 다시 설치합니다.
