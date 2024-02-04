@@ -6,4 +6,4 @@
 
 [3.이미지 검색](instruction.md)
 
-[4.구독 문제 해결하기](fix_subscription_.md)
+[4.정기 결제 문제 해결하기](fix_problems_with_subscriptions.md)
