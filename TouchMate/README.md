@@ -6,7 +6,7 @@
 
   [다운로드](apk/README.md)
 
-- 터치 매크로 앱을 보안폴더 안에 설치합니다\
+- 터치 매크로 앱을 보안폴더 안에 설치합니다.
 
   <img src="assets/install_secure_folder.jpg" alt="Install tmc inside the secure folder" style="height: 400px; width:200px;"/>
 
