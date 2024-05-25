@@ -14,7 +14,7 @@
 
   <img src="assets/touch_mate_install.png" alt="Install tmc inside the secure folder" style="height: 400px; width:200px;"/>
 
-## 실행 동영상
+## 터치매크로 동영상
 - 게임 앱이 터치 매크로 앱을 차단한 경우 우회하여 터치 매크로를 사용하는 동영상입니다.
 
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9BsNadE2Vwc/0.jpg)](https://youtu.be/9BsNadE2Vwc?si=MRdFKoVEs3Qo2QnV)
