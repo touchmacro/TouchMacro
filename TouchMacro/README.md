@@ -6,4 +6,6 @@
 
 [3.이미지 검색](instruction.md)
 
-[4.정기 결제 문제 해결하기](fix_problems_with_subscriptions.md)
+[4.매크로 앱 탐지 회피하기](TouchMate/README.md)
+
+[5.정기 결제 문제 해결하기](fix_problems_with_subscriptions.md)
