@@ -14,14 +14,11 @@
 
   <img src="assets/touch_mate_install.png" alt="Install tmc inside the secure folder" style="height: 400px; width:200px;"/>
 
-
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9BsNadE2Vwc/0.jpg)](https://youtu.be/9BsNadE2Vwc?si=MRdFKoVEs3Qo2QnV)
-
 ## 실행
 - 접근성 권한을 허용합니다.
 - 터치 메이트 서비스를 실행합니다.
 
-  <img src="assets/touch_mate_main.png" alt="Touch Mate main activity" style="height: 400px; width:200px;"/>
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9BsNadE2Vwc/0.jpg)](https://youtu.be/9BsNadE2Vwc?si=MRdFKoVEs3Qo2QnV)
 
 ## 접근성 권한 
  - Android 14 스마트폰에서 접근성 권한을 활성화 하는 동영상입니다.
