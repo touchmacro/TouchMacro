@@ -14,13 +14,13 @@
 
   <img src="assets/touch_mate_install.png" alt="Install tmc inside the secure folder" style="height: 400px; width:200px;"/>
 
-## 터치매크로 동영상
-- 게임 앱이 터치 매크로 앱을 차단한 경우 우회하여 터치 매크로를 사용하는 동영상입니다.
-
-   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9BsNadE2Vwc/0.jpg)](https://youtu.be/9BsNadE2Vwc?si=MRdFKoVEs3Qo2QnV)
-
 ## 접근성 권한 
  - Android 14 스마트폰에서 접근성 권한을 활성화 하는 동영상입니다.
  
    [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/GCOlUx8d_NU/0.jpg)](https://www.youtube.com/watch?v=GCOlUx8d_NU)
+
+## 터치매크로 동영상
+- 게임 앱이 터치 매크로 앱을 차단한 경우 우회하여 터치 매크로를 사용하는 동영상입니다.
+
+   [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/9BsNadE2Vwc/0.jpg)](https://youtu.be/9BsNadE2Vwc?si=MRdFKoVEs3Qo2QnV)
 
