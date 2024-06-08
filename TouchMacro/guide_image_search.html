@@ -60,6 +60,21 @@
 이미지 검색 주기가 2초이고 검색 시간이 4초이면 2번 이미지 검색을 수행합니다.</p>
 
 
+    <!-- Google Translate button -->
+    <div id="google_translate_element"></div>
+ 
+    <script type="text/javascript">
+        function googleTranslateElementInit() {
+            new google.translate.TranslateElement(
+                {pageLanguage: 'ko'}, 'google_translate_element'
+            );
+        }
+    </script>
+ 
+    <script type="text/javascript"
+            src="https://translate.google.com/translate_a/element.js?cb=googleTranslateElementInit">
+    </script>
+    
       
     </div>
     <script src="assets/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
