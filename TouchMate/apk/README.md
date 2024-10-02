@@ -1,2 +1,2 @@
 # Touch Mate latest version
-[Version: v1.0.8](TouchMate_v1.0.8.apk)
+[Version: v1.0.9](TouchMate_v1.0.9.apk)
